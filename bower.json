@@ -1,0 +1,22 @@
+{
+  "name": "easy-markerwithlabel",
+  "version": "0.0.0",
+  "authors": [
+    "adrian chen <adrian.evangelion@gmail.com>"
+  ],
+  "description": "Bower package for Google Map Utility Library (MarkerWithLabel)",
+  "main": "src/markerwithlabel.js",
+  "keywords": [
+    "google maps",
+    "maps",
+    "markerwithlabel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
